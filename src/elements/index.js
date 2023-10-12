@@ -1,1 +1,1 @@
-export { DishItem } from './DishItem'
+export { DishItem } from './DishItem';

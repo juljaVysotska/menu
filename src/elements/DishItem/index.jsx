@@ -1,3 +1,3 @@
 export const DishItem = () => {
-    return <div>DISH item</div>
-}
+  return <div>DISH item</div>;
+};

@@ -1,3 +1,3 @@
 export const DishList = () => {
-    return <>Dish List</>
-}
+  return <>Dish List</>;
+};

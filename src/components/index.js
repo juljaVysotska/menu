@@ -1,1 +1,1 @@
-export { DishList } from './DishList'
+export { DishList } from './DishList';
