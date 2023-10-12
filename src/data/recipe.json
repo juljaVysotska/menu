@@ -1,0 +1,175 @@
+[
+    {
+        "recipeName": "Lasagna",
+        "author": "Maria Smith",
+        "difficulty": "Intermediate",
+        "prepTime": "30 minutes",
+        "cookTime": "1 hour",
+        "totalTime": "1 hour 30 minutes",
+        "servings": 6,
+        "cuisine": "Italian",
+        "ingredients": [
+            {
+                "name": "Lasagna noodles",
+                "quantity": "12 sheets"
+            },
+            {
+                "name": "Ground beef",
+                "quantity": "1 pound"
+            },
+            {
+                "name": "Ricotta cheese",
+                "quantity": "2 cups"
+            },
+            {
+                "name": "Mozzarella cheese",
+                "quantity": "2 cups"
+            },
+            {
+                "name": "Tomato sauce",
+                "quantity": "3 cups"
+            },
+            {
+                "name": "Parmesan cheese",
+                "quantity": "1/2 cup"
+            },
+            {
+                "name": "Oregano",
+                "quantity": "1 tsp"
+            },
+            {
+                "name": "Salt",
+                "quantity": "To taste"
+            }
+        ],
+        "instructions": [
+            "Cook lasagna noodles according to package instructions. Drain and set aside.",
+            "In a skillet, brown the ground beef. Add oregano and salt.",
+            "In a baking dish, layer noodles, ricotta, mozzarella, meat sauce, and tomato sauce. Repeat.",
+            "Top with Parmesan cheese and bake at 375°F for 30 minutes.",
+            "Let it cool for a few minutes before serving."
+        ],
+        "notes": "You can customize the fillings with vegetables or your favorite ingredients.",
+        "tags": ["pasta", "Italian", "lasagna"]
+    },
+    {
+        "recipeName": "Pizza",
+        "author": "Tony Pizzamaker",
+        "difficulty": "Easy",
+        "prepTime": "20 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "35 minutes",
+        "servings": 2,
+        "cuisine": "Italian",
+        "ingredients": [
+            {
+                "name": "Pizza dough",
+                "quantity": "1 ball"
+            },
+            {
+                "name": "Tomato sauce",
+                "quantity": "1/2 cup"
+            },
+            {
+                "name": "Mozzarella cheese",
+                "quantity": "1 1/2 cups"
+            },
+            {
+                "name": "Toppings (e.g., pepperoni, mushrooms, peppers)",
+                "quantity": "As desired"
+            },
+            {
+                "name": "Oregano",
+                "quantity": "1 tsp"
+            }
+        ],
+        "instructions": [
+            "Preheat your oven to 475°F (245°C).",
+            "Roll out the pizza dough and place it on a baking sheet or pizza stone.",
+            "Spread tomato sauce over the dough, add mozzarella cheese, and your favorite toppings.",
+            "Sprinkle with oregano and bake for 12-15 minutes until the crust is golden brown."
+        ],
+        "notes": "Feel free to get creative with your pizza toppings!",
+        "tags": ["pizza", "Italian"]
+    },
+    {
+        "recipeName": "Panna Cotta",
+        "author": "Isabella Chef",
+        "difficulty": "Intermediate",
+        "prepTime": "15 minutes",
+        "cookTime": "10 minutes",
+        "totalTime": "2 hours (including chilling)",
+        "servings": 4,
+        "cuisine": "Italian",
+        "ingredients": [
+            {
+                "name": "Heavy cream",
+                "quantity": "2 cups"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1/2 cup"
+            },
+            {
+                "name": "Vanilla extract",
+                "quantity": "1 tsp"
+            },
+            {
+                "name": "Gelatin",
+                "quantity": "1 packet (about 2 1/4 tsp)"
+            }
+        ],
+        "instructions": [
+            "In a saucepan, heat the heavy cream and sugar over low heat until the sugar dissolves.",
+            "Stir in the vanilla extract and gelatin. Mix until the gelatin is completely dissolved.",
+            "Pour the mixture into ramekins and refrigerate for at least 2 hours or until set.",
+            "Serve with your favorite fruit compote or sauce."
+        ],
+        "notes": "Panna Cotta is a versatile dessert that pairs well with various toppings.",
+        "tags": ["dessert", "Italian", "panna cotta"]
+    },
+    {
+        "recipeName": "Hot Cocoa",
+        "author": "Cocoa Lover",
+        "difficulty": "Easy",
+        "prepTime": "5 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "10 minutes",
+        "servings": 2,
+        "cuisine": "International",
+        "ingredients": [
+            {
+                "name": "Milk",
+                "quantity": "2 cups"
+            },
+            {
+                "name": "Cocoa powder",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3 tablespoons"
+            },
+            {
+                "name": "Vanilla extract",
+                "quantity": "1 tsp"
+            },
+            {
+                "name": "Whipped cream",
+                "quantity": "For topping"
+            },
+            {
+                "name": "Chocolate shavings",
+                "quantity": "For garnish"
+            }
+        ],
+        "instructions": [
+            "In a saucepan, whisk together milk, cocoa powder, and sugar over medium heat.",
+            "Stir until the mixture is hot but not boiling.",
+            "Remove from heat and add vanilla extract.",
+            "Pour into mugs, top with whipped cream, and garnish with chocolate shavings."
+        ],
+        "notes": "Add a pinch of salt or a dash of cinnamon for extra flavor.",
+        "tags": ["beverage", "cocoa", "chocolate"]
+    }
+]
