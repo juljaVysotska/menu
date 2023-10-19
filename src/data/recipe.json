@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "recipeName": "Lasagna",
     "author": "Maria Smith",
     "difficulty": "Intermediate",
@@ -50,9 +51,14 @@
       "Let it cool for a few minutes before serving."
     ],
     "notes": "You can customize the fillings with vegetables or your favorite ingredients.",
-    "tags": ["pasta", "Italian", "lasagna"]
+    "tags": [
+      "pasta",
+      "Italian",
+      "lasagna"
+    ]
   },
   {
+    "id": 2,
     "recipeName": "Pizza",
     "author": "Tony Pizzamaker",
     "difficulty": "Easy",
@@ -90,9 +96,13 @@
       "Sprinkle with oregano and bake for 12-15 minutes until the crust is golden brown."
     ],
     "notes": "Feel free to get creative with your pizza toppings!",
-    "tags": ["pizza", "Italian"]
+    "tags": [
+      "pizza",
+      "Italian"
+    ]
   },
   {
+    "id": 3,
     "recipeName": "Panna Cotta",
     "author": "Isabella Chef",
     "difficulty": "Intermediate",
@@ -126,9 +136,14 @@
       "Serve with your favorite fruit compote or sauce."
     ],
     "notes": "Panna Cotta is a versatile dessert that pairs well with various toppings.",
-    "tags": ["dessert", "Italian", "panna cotta"]
+    "tags": [
+      "dessert",
+      "Italian",
+      "panna cotta"
+    ]
   },
   {
+    "id": 4,
     "recipeName": "Hot Cocoa",
     "author": "Cocoa Lover",
     "difficulty": "Easy",
@@ -170,6 +185,10 @@
       "Pour into mugs, top with whipped cream, and garnish with chocolate shavings."
     ],
     "notes": "Add a pinch of salt or a dash of cinnamon for extra flavor.",
-    "tags": ["beverage", "cocoa", "chocolate"]
+    "tags": [
+      "beverage",
+      "cocoa",
+      "chocolate"
+    ]
   }
 ]

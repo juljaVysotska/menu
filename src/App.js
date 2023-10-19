@@ -1,3 +1,9 @@
+import { DishList } from "./components/DishList";
+
 export const App = () => {
-    return <>menu</>
-}
+  return (
+    <div>
+      <DishList />
+    </div>
+  );
+};
