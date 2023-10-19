@@ -8,6 +8,7 @@
     "cookTime": "1 hour",
     "totalTime": "1 hour 30 minutes",
     "servings": 6,
+    "cover": "https://picsum.photos/seed/picsum/310/140",
     "cuisine": "Italian",
     "ingredients": [
       {
@@ -66,6 +67,7 @@
     "cookTime": "15 minutes",
     "totalTime": "35 minutes",
     "servings": 2,
+    "cover": "https://picsum.photos/seed/picsum/310/140",
     "cuisine": "Italian",
     "ingredients": [
       {
@@ -110,6 +112,7 @@
     "cookTime": "10 minutes",
     "totalTime": "2 hours (including chilling)",
     "servings": 4,
+    "cover": "https://picsum.photos/seed/picsum/310/140",
     "cuisine": "Italian",
     "ingredients": [
       {
@@ -151,6 +154,7 @@
     "cookTime": "5 minutes",
     "totalTime": "10 minutes",
     "servings": 2,
+    "cover": "https://picsum.photos/seed/picsum/310/140",
     "cuisine": "International",
     "ingredients": [
       {

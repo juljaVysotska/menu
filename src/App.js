@@ -1,9 +1,10 @@
 import { DishList } from "./components/DishList";
+import { Container } from "@mui/material";
 
 export const App = () => {
   return (
-    <div>
+    <Container maxWidth={"lg"}>
       <DishList />
-    </div>
+    </Container>
   );
 };

@@ -9,11 +9,14 @@ export const dishSlice = createSlice({
     addDish: (state, action) => {
       state.dishes.push({
         name: action.payload.name,
+        dishId: action.payload.dishId,
         id: nanoid(),
       });
     },
     deleteDish: (state, action) => {
-      const updated = state.dishes.filter(el => el.id !== action.payload.id);
+      const updated = state.dishes.filter(
+        el => el.dishId !== action.payload.dishId,
+      );
 
       state.dishes = updated;
     },
